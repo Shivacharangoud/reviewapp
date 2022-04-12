@@ -1,6 +1,6 @@
 REACTAPP LINK: https://reviewappch.ccbp.tech/ .
 Developed an react application where the user can click on arrow buttons to see the different reviews.
-Includes: react components, state, event handlers.
+Includes: react components, state, event handlers, CSS flex box.
 Technologies used : React JS, CSS, JSX.
 TO see main file to go src folder.
 
